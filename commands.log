@@ -1,0 +1,5 @@
+﻿# Log des commandes - 2026-03-22 20:44:36
+cd Desktop/lab-mobile-security
+mkdir 00-scope, 01-bevigil, 02-yaazhini, 03-triage, 04-report, screenshots
+Copy-Item InsecureBankv2.apk -> 00-scope\
+Get-FileHash InsecureBankv2.apk -Algorithm SHA256

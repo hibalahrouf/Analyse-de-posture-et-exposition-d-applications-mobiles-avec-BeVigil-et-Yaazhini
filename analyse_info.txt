@@ -1,0 +1,10 @@
+﻿Date: 2026-03-22
+Analyste: Lahrouf Hiba
+Cible: InsecureBankv2
+Artefact: InsecureBankv2.apk
+Provenance: github.com/dineshshetty/Android-InsecureBankv2
+Hash SHA-256: B18AF2A0E44D7634BBCDF93664D9C78A2695E050393FCFBB5E8B91F902D194A4
+Versions outils:
+  - BeVigil: CloudSEK (bevigil.com)
+  - Yaazhini: VegaBird Technologies (vegabird.com/yaazhini)
+Environnement: Windows
